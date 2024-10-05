@@ -16,12 +16,13 @@ The dataset containing the retweet networks and the tweet ids of the tweets used
 Below are listed the steps and the corresponding codes followed to reproduce the results proposed in the reference paper.
 
 1. The first step involves constructing the retweet network. The codes related to this step are contained in the Notebook/retweet_network.ipynb.
+Edge lists are available at: https://osf.io/e395q/, Retweet_Nework -->2020.
  
-2. Subsequently, once the retweet network is constructed, link validation is performed considering the weights associated with each connection. The code related to this step is contained in py_files/validation.py, and described in the notebook Notebook/Validating Connections.ipynb.
+3. Subsequently, once the retweet network is constructed, link validation is performed considering the weights associated with each connection. The code related to this step is contained in py_files/validation.py, and described in the notebook Notebook/Validating Connections.ipynb.
  
-3. Next, we conducted the classification of influencers using the code contained in py_files/compute_ci.py. This allowed us to associate a CI value with each node, enabling us to identify those we have defined as influencers.
+4. Next, we conducted the classification of influencers using the code contained in py_files/compute_ci.py. This allowed us to associate a CI value with each node, enabling us to identify those we have defined as influencers.
 
-4. The final step involves the application of BFS algorithm. The code defining this algorithm is contained in py_files/bfs.py, and the reference notebook is Notebook/BFS.ipynb.
+5. The final step involves the application of BFS algorithm. The code defining this algorithm is contained in py_files/bfs.py, and the reference notebook is Notebook/BFS.ipynb.
 
 
 Moreover in the folder OL classication/ we include the list of classified OL, as well as categories and list of sources. 
