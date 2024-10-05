@@ -1,7 +1,9 @@
 # Analysis of flows in social media uncovers a new multi-step model of information spread
 
-Analysis codes to reproduce the results of the paper:
+Codes to reproduce the results of the paper:
 "Analysis of flows in social media uncovers a new multi-step model of information spread" authored by M. Serafino, G.V. Clemente, J. Flaminio, B. K. Szymanskici, O. Lizardo and H.A. Makse.
+
+https://arxiv.org/abs/2409.01225
 
 By using this code, you agree with the following points:
 
