@@ -27,6 +27,13 @@ Edge lists are available at: https://osf.io/e395q/, Retweet_Nework -->2020.
 
 Moreover in the folder OL classication/ we include the list of classified OL, as well as categories and list of sources. 
 
+The notebook Further_Analysis contains analyses performed during the review process. These results
+have been integrated throughout the paper. The main additions are as follows:
+
+- Temporal Filtering
+- Appendix: Identifying Influencers
+- Appendix: Further Analysis
+
 Please refer to the paper for further clarifications regarding the steps just described. 
 
 # Collective Influence algorithm
